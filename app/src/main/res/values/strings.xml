@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buisness Card</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="mail_icon">Mail Icon</string>
+    <string name="share_icon">Share Icon</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
